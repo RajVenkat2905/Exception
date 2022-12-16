@@ -16,7 +16,7 @@ public class AgeElgibilty {
 		ae.printStackTrace();
 	}
 	
-	System.out.println("Continue the rest of code");
+	System.out.println("Continue the  code");
 	}
 
 }
